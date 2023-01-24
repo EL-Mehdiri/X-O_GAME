@@ -31,7 +31,7 @@ function winner(){
         end(1,4,7)
     }
     else if(square[2] == square[5]&& square[5] == square[8]&& square[5] != ''){
-        end(2,5,8)e
+        end(2,5,8)
     }
     else if(square[3] == square[6]&& square[6] == square[9]&& square[6] != ''){
         end(3,6,9)
