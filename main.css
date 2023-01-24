@@ -1,5 +1,6 @@
 body{
     font-family: 'Finger Paint', cursive;
+    background-color: #abf;
 }
 .game{
     width: 255px;
@@ -7,7 +8,6 @@ body{
     font-family: system-ui;
     color: #fff;
     margin: auto;
-    font-weight: 500;
 }
 
 .title{
